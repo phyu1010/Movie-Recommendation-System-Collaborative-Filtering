@@ -1,6 +1,6 @@
 # Movie-Recommendation-System-Collaborative-Fitering
 
-The nodebook is created and run in databricks, so it fit in the Spark environment. 
+Cause notebook is created and run in databricks, so it fit in the Spark environment. 
 
 The data comes from Movielens lateset small dataset. https://grouplens.org/datasets/movielens/latest/ 
 
