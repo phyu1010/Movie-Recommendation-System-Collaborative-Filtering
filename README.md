@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-Collaborative-Fitering
+# Movie-Recommendation-System-Collaborative-Filtering
 
 Cause this notebook is created and run in databricks, so it fit in the Spark environment. 
 
